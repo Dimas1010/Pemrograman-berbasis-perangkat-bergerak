@@ -16,8 +16,8 @@
 Repository ini berisi **materi TUWEB (Tutorial Web)** lengkap untuk mata kuliah **Pemrograman Berbasis Piranti Bergerak (MSIM4401)** Universitas Terbuka. Materi dirancang dengan pendekatan **Learning by Doing** untuk mahasiswa pemula.
 
 ### 📊 Project Information
-- **👨‍🏫 Dosen Pengampu:** Anton Prafanto, S.Kom., M.T.
-- **🏛️ Universitas:** Universitas Mulawarman - Universitas Terbuka
+- **👨‍🏫 Dosen Pengampu:** Adimas Aglasia, S.Kom., M.T.
+- **🏛️ Universitas:** IIB Darmajaya - Universitas Terbuka
 - **🎯 Target Audience:** Mahasiswa tingkat pemula
 - **⏰ Total Durasi:** 360 menit (6 jam)
 - **📈 Difficulty Level:** Progressive (Basic → Advanced)
