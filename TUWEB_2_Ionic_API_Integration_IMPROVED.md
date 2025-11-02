@@ -1,8 +1,8 @@
 # TUWEB 2: Integrasi Ionic Framework dengan API Eksternal
 
 **Mata Kuliah:** Pemrograman Berbasis Piranti Bergerak (MSIM4401)  
-**Dosen:** Anton Prafanto, S.Kom., M.T.  
-**Universitas:** Universitas Mulawarman - Universitas Terbuka  
+**Dosen:** Adimas Aglasia, S.Kom., M.T.  
+**Universitas:** IIB Darmajaya - Universitas Terbuka  
 **Durasi:** 120 menit (2 jam)
 
 ---
